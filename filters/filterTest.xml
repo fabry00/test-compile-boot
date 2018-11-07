@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<root>
+	<condition>
+		<![CDATA[
+			input.has("a")
+		]]>
+	</condition>
+	<action>
+		<![CDATA[
+			String tmp = "______FILTERED_____";
+		]]>
+	</action>
+</root>
